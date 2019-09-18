@@ -1,69 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/interface/app/checkUpdate_test.py" description="    def tearDown(self):&#10;        print(self.result)" line="12" />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="1c6f9c80-bfa5-40cc-9e84-39cc42d46577" name="Default" comment="update all">
-      <change afterPath="$PROJECT_DIR$/report/2019-09-05 22_17_52_TestReportResult.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/2019-09-05 22_18_21_TestReportResult.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/2019-09-05 22_19_53_TestReportResult.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/2019-09-05 22_32_52_TestReportResult.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/2019-09-05 22_43_44_TestReportResult.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/2019-09-05 22_48_40_TestReportResult.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/2019-09-06 00_55_08_TestReportResult.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/2019-09-06 01_01_22_TestReportResult.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/2019-09-06 01_03_53_TestReportResult.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/2019-09-06 01_37_59_TestReportResult.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/2019-09-06 01_48_26_TestReportResult.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/2019-09-06 16_08_30_TestReportResult.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/2019-09-06 16_09_06_TestReportResult.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ts/MongoConn.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Global_base/globa_phone.py" beforeDir="false" afterPath="$PROJECT_DIR$/Global_base/globa_phone.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Global_base/global_base.py" beforeDir="false" afterPath="$PROJECT_DIR$/Global_base/global_base.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface/Business_other/getYkdHomePageInfo_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/interface/Business_other/getYkdHomePageInfo_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface/Business_other/getYkdLoanCollection_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/interface/Business_other/getYkdLoanCollection_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface/Business_other/get_business_product_list_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/interface/Business_other/get_business_product_list_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface/Business_other/get_plist_productList_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/interface/Business_other/get_plist_productList_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface/Business_other/get_yjkd_home_product_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/interface/Business_other/get_yjkd_home_product_list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface/app/attendance_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/interface/app/attendance_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface/app/checkUpdate_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/interface/app/checkUpdate_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface/app/find_pass_by_code_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/interface/app/find_pass_by_code_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface/app/getCreditHelper_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/interface/app/getCreditHelper_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface/app/getMainLinkBySublink_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/interface/app/getMainLinkBySublink_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface/app/getMsgList_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/interface/app/getMsgList_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface/app/getProtocol_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/interface/app/getProtocol_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface/app/getSmartMatchList_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/interface/app/getSmartMatchList_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface/app/getUserInfo_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/interface/app/getUserInfo_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface/app/get_history_by_userId_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/interface/app/get_history_by_userId_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface/app/get_home_product_listV3_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/interface/app/get_home_product_listV3_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface/app/get_me_Info_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/interface/app/get_me_Info_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface/app/get_module_read_status_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/interface/app/get_module_read_status_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface/app/get_msg_read_status_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/interface/app/get_msg_read_status_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface/app/get_new_loan_product_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/interface/app/get_new_loan_product_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface/app/init_test_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/interface/app/init_test_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface/app/login_by_code_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/interface/app/login_by_code_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Global_base/phone_create.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface/Business_other/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface/Business_other/getYkdHomePageInfo_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface/Business_other/getYkdLoanCollection_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface/Business_other/get_business_product_list_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface/Business_other/get_plist_productList_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface/Business_other/get_yjkd_home_product_list.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface/app/batchInsertVisitInfoByQsj_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface/app/batchInsertVisitInfo_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface/app/checkUpdate_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface/app/find_pass_by_code_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface/app/getCreditHelper_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface/app/getMainLinkBySublink_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface/app/getMsgList_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface/app/getProtocol_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface/app/getSmartMatchList_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface/app/getUserInfo_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface/app/get_history_by_userId_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface/app/get_home_product_listV3_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface/app/get_me_Info_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface/app/get_module_read_status_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface/app/get_msg_read_status_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface/app/get_new_loan_product_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface/app/init_test_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface/app/login_by_code_test.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/interface/app/login_by_pass_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/interface/app/login_by_pass_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface/app/logout_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/interface/app/logout_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface/app/mofidyPassByCode_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/interface/app/mofidyPassByCode_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface/app/queryLoanProductByListIdV2_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/interface/app/queryLoanProductByListIdV2_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface/app/queryLoanProductByListId_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/interface/app/queryLoanProductByListId_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface/app/record_add_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/interface/app/record_add_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface/app/saveGps_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/interface/app/saveGps_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface/app/send_phone_code_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/interface/app/send_phone_code_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface/app/suggest_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/interface/app/suggest_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface/app/updateDeviceToken_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/interface/app/updateDeviceToken_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface/app/update_user_info_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/interface/app/update_user_info_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface/dyy_app/loanUserAction_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/interface/dyy_app/loanUserAction_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface/dyy_app/userAction_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/interface/dyy_app/userAction_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface/infomation/clickNotify.py" beforeDir="false" afterPath="$PROJECT_DIR$/interface/infomation/clickNotify.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface/infomation/idfa_query.py" beforeDir="false" afterPath="$PROJECT_DIR$/interface/infomation/idfa_query.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface/route/getModelInfoByStrategy_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/interface/route/getModelInfoByStrategy_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface/route/get_checkUser_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/interface/route/get_checkUser_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface/route/get_route_h5_downloadUrl_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/interface/route/get_route_h5_downloadUrl_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/2019-09-02 14_20_26_TestReportResult.html" beforeDir="false" afterPath="$PROJECT_DIR$/report/2019-09-06 01_10_41_TestReportResult.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/2019-09-02 17_38_49_TestReportResult.html" beforeDir="false" afterPath="$PROJECT_DIR$/report/2019-09-05 22_28_14_TestReportResult.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface/app/logout_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface/app/mofidyPassByCode_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface/app/queryLoanProductByListIdV2_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface/app/queryLoanProductByListId_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface/app/record_add_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface/app/saveGps_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface/app/send_phone_code_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface/app/suggest_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface/app/updateDeviceToken_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface/app/update_user_info_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface/dyy_app/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface/dyy_app/loanUserAction_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface/dyy_app/userAction_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface/infomation/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface/infomation/clickNotify.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface/infomation/idfa_query.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface/route/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface/route/getModelInfoByStrategy_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface/route/get_checkUser_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface/route/get_route_h5_downloadUrl_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface/web_app/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface/web_app/init.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/logger.py" beforeDir="false" afterPath="$PROJECT_DIR$/log/logger.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -188,6 +176,7 @@
     <SUITE FILE_PATH="coverage/QSJ$test_db_idfa.coverage" NAME="test_db_idfa Coverage Results" MODIFIED="1566210285318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/db_fixture" />
     <SUITE FILE_PATH="coverage/Funcl$Unittests_in_create_order.coverage" NAME="Unittests in create_order Coverage Results" MODIFIED="1542711845486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OrderManagement" />
     <SUITE FILE_PATH="coverage/QSJ$test_db.coverage" NAME="test_db Coverage Results" MODIFIED="1567403612397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/db_fixture" />
+    <SUITE FILE_PATH="coverage/QSJ$phone.coverage" NAME="phone Coverage Results" MODIFIED="1568791466540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Global_base" />
     <SUITE FILE_PATH="coverage/Funcl$Unittests_in_auth_me.coverage" NAME="Unittests in auth_me Coverage Results" MODIFIED="1542348136522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Administrator" />
     <SUITE FILE_PATH="coverage/Funcl$Unittests_in_update_default_address_test_py.coverage" NAME="Unittests in update_default_address_test.py Coverage Results" MODIFIED="1545274710591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interface/Address" />
     <SUITE FILE_PATH="coverage/QSJ$global_base.coverage" NAME="global_base Coverage Results" MODIFIED="1567169655883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Global_base" />
@@ -238,25 +227,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/run_tests.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Global_base/phone.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="428">
-              <caret line="34" column="14" lean-forward="true" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="14" />
+            <state relative-caret-position="523">
+              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
               <folding>
-                <element signature="e#0#14#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/interface/Business_other/getYkdLoanCollection_test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="490">
-              <caret line="38" selection-start-line="38" selection-end-line="38" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
+                <element signature="e#25#38#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -265,31 +242,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Global_base/global_base.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="26" column="18" lean-forward="true" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+            <state relative-caret-position="342">
+              <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
               <folding>
                 <element signature="e#17#32#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Global_base/send_code.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Global_base/globa_phone.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="23" lean-forward="true" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -306,41 +263,9 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/interface/Business_other/getYkdHomePageInfo_test.py">
+        <entry file="file://$PROJECT_DIR$/Global_base/send_code.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="798">
-              <caret line="42" column="19" lean-forward="true" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/interface/app/attendance_test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="32" column="63" lean-forward="true" selection-start-line="32" selection-start-column="63" selection-end-line="32" selection-end-column="63" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/db_fixture/test_data.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-114" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/interface/app/login_by_pass_test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            <state>
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -369,10 +294,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/interface/app-interface/suggest_test.py" />
-        <option value="$PROJECT_DIR$/interface/app-interface/update_user_info_test.py" />
-        <option value="$PROJECT_DIR$/interface/app-interface/updateDeviceToken_test.py" />
-        <option value="$PROJECT_DIR$/interface/qianka/idfa_query.py" />
         <option value="$PROJECT_DIR$/run_tests.py" />
         <option value="$PROJECT_DIR$/interface/app-interface/getMsgList_test.py" />
         <option value="$PROJECT_DIR$/interface/web_app/init.py" />
@@ -394,7 +315,6 @@
         <option value="$PROJECT_DIR$/interface/app/getUserInfo_test.py" />
         <option value="$PROJECT_DIR$/interface/app/init_test_test.py" />
         <option value="$PROJECT_DIR$/interface/app/login_by_code_test.py" />
-        <option value="$PROJECT_DIR$/interface/app/login_by_pass_test.py" />
         <option value="$PROJECT_DIR$/interface/app/logout_test.py" />
         <option value="$PROJECT_DIR$/interface/app/mofidyPassByCode_test.py" />
         <option value="$PROJECT_DIR$/interface/app/queryLoanProductByListId_test.py" />
@@ -420,6 +340,11 @@
         <option value="$PROJECT_DIR$/Global_base/global_base.py" />
         <option value="$PROJECT_DIR$/Global_base/globa_phone.py" />
         <option value="$PROJECT_DIR$/interface/Business_other/getYkdHomePageInfo_test.py" />
+        <option value="$PROJECT_DIR$/log/logger.py" />
+        <option value="$PROJECT_DIR$/interface/app/batchInsertVisitInfo_test.py" />
+        <option value="$PROJECT_DIR$/Global_base/phone_create.py" />
+        <option value="$PROJECT_DIR$/interface/app/login_by_pass_test.py" />
+        <option value="$PROJECT_DIR$/Global_base/phone.py" />
       </list>
     </option>
   </component>
@@ -435,85 +360,29 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="QSJ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="QSJ" type="462c0819:PsiDirectoryNode" />
+              <item name="overSeas" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="QSJ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="QSJ" type="462c0819:PsiDirectoryNode" />
-              <item name="db_fixture" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="QSJ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="QSJ" type="462c0819:PsiDirectoryNode" />
+              <item name="overSeas" type="462c0819:PsiDirectoryNode" />
               <item name="Global_base" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="QSJ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="QSJ" type="462c0819:PsiDirectoryNode" />
-              <item name="interface" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="QSJ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="QSJ" type="462c0819:PsiDirectoryNode" />
-              <item name="interface" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="QSJ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="QSJ" type="462c0819:PsiDirectoryNode" />
-              <item name="interface" type="462c0819:PsiDirectoryNode" />
-              <item name="Business_other" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="QSJ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="QSJ" type="462c0819:PsiDirectoryNode" />
-              <item name="interface" type="462c0819:PsiDirectoryNode" />
-              <item name="dyy_app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="QSJ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="QSJ" type="462c0819:PsiDirectoryNode" />
-              <item name="interface" type="462c0819:PsiDirectoryNode" />
-              <item name="infomation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="QSJ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="QSJ" type="462c0819:PsiDirectoryNode" />
-              <item name="interface" type="462c0819:PsiDirectoryNode" />
-              <item name="route" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="QSJ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="QSJ" type="462c0819:PsiDirectoryNode" />
-              <item name="interface" type="462c0819:PsiDirectoryNode" />
-              <item name="web_app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="QSJ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="QSJ" type="462c0819:PsiDirectoryNode" />
-              <item name="log" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="QSJ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="QSJ" type="462c0819:PsiDirectoryNode" />
-              <item name="report" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.eslint.eslintPackage" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../InterfaceTest" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="PyConsoleOptionsProvider">
@@ -551,7 +420,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in getYkdHomePageInfo_test.py">
+  <component name="RunManager" selected="Python.phone">
     <configuration default="true" type="tests" factoryName="Attests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -640,6 +509,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="phone" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="QSJ" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Global_base" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Global_base/phone.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="run_tests" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="QSJ" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -683,22 +574,7 @@
       <envs />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests in getModelInfoByStrategy_test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="QSJ" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/interface/route" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/interface/route/getModelInfoByStrategy_test.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Unittests in getYkdHomePageInfo_test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests in F:/overSeas/interface/Business_other/getYkdHomePageInfo_test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="QSJ" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -713,22 +589,7 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests in get_route_h5_downloadUrl_test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="QSJ" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/interface/route" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/interface/route/get_route_h5_downloadUrl_test.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Unittests in logout_test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests in F:/overSeas/interface/app/logout_test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="QSJ" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -740,6 +601,21 @@
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;$PROJECT_DIR$/interface/app/logout_test.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in F:/overSeas/interface/route/getModelInfoByStrategy_test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="QSJ" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/interface/route" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/interface/route/getModelInfoByStrategy_test.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
@@ -810,19 +686,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python tests.Unittests in getModelInfoByStrategy_test.py" />
-      <item itemvalue="Python tests.Unittests in get_route_h5_downloadUrl_test.py" />
       <item itemvalue="Python.run_tests" />
-      <item itemvalue="Python tests.Unittests in logout_test.py" />
-      <item itemvalue="Python tests.Unittests in getYkdHomePageInfo_test.py" />
+      <item itemvalue="Python tests.Unittests in F:/overSeas/interface/route/getModelInfoByStrategy_test.py" />
+      <item itemvalue="Python tests.Unittests in F:/overSeas/interface/app/logout_test.py" />
+      <item itemvalue="Python tests.Unittests in F:/overSeas/interface/Business_other/getYkdHomePageInfo_test.py" />
+      <item itemvalue="Python.phone" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Unittests in getYkdHomePageInfo_test.py" />
+        <item itemvalue="Python.phone" />
+        <item itemvalue="Python tests.Unittests in F:/overSeas/interface/Business_other/getYkdHomePageInfo_test.py" />
         <item itemvalue="Python.run_tests" />
-        <item itemvalue="Python tests.Unittests in logout_test.py" />
-        <item itemvalue="Python tests.Unittests in getModelInfoByStrategy_test.py" />
-        <item itemvalue="Python tests.Unittests in get_route_h5_downloadUrl_test.py" />
+        <item itemvalue="Python tests.Unittests in F:/overSeas/interface/app/logout_test.py" />
+        <item itemvalue="Python tests.Unittests in F:/overSeas/interface/route/getModelInfoByStrategy_test.py" />
       </list>
     </recent_temporary>
   </component>
@@ -887,6 +763,7 @@
       <workItem from="1567058889976" duration="56960000" />
       <workItem from="1567432720225" duration="25338000" />
       <workItem from="1567648968158" duration="20414000" />
+      <workItem from="1568787226683" duration="2697000" />
     </task>
     <task id="LOCAL-00001" summary="first commmit">
       <created>1538289967373</created>
@@ -1260,7 +1137,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="477319000" />
+    <option name="totallyTimeSpent" value="480016000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1273,8 +1150,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1716418" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17324094" />
       <window_info id="Structure" order="1" weight="0.2494382" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -1289,7 +1167,7 @@
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.4968383" weight="0.3264642" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
-      <window_info anchor="bottom" x="23" y="704" width="1876" height="294" id="Run" order="12" visible="true" weight="0.3373102" />
+      <window_info active="true" anchor="bottom" x="23" y="704" width="1876" height="294" id="Run" order="12" visible="true" weight="0.3373102" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24953446" />
@@ -1371,46 +1249,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="update all" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/interface/app/find_pass_by_code_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="428">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/interface/app/get_history_by_userId_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/interface/app/get_home_product_listV3_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/interface/app/get_me_Info_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="485">
-          <caret line="29" column="53" selection-start-line="29" selection-start-column="53" selection-end-line="29" selection-end-column="53" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/interface/app/get_module_read_status_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="333">
@@ -1575,22 +1413,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/interface/web_app/init.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/log/logger.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Global_base/phone_create.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/report/2019-09-05 22_09_19_TestReportResult.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="25" column="23" lean-forward="true" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/report/2019-09-05 22_09_19_TestReportResult.html" />
     <entry file="file://$PROJECT_DIR$/interface/app/saveGps_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
@@ -1651,40 +1474,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/interface/dyy_app/loanUserAction_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/interface/dyy_app/userAction_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="376">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/interface/infomation/idfa_query.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/interface/infomation/clickNotify.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="58" selection-start-line="58" selection-end-line="58" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/interface/route/get_checkUser_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
@@ -1739,22 +1528,87 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/interface/app/login_by_pass_test.py">
+    <entry file="file://$PROJECT_DIR$/run_tests.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="570">
+          <caret line="34" column="14" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface/Business_other/getYkdLoanCollection_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/db_fixture/test_data.py">
+    <entry file="file://$PROJECT_DIR$/interface/Business_other/getYkdHomePageInfo_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-114" />
+        <state relative-caret-position="722">
+          <caret line="42" column="19" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Global_base/login.py">
+    <entry file="file://$PROJECT_DIR$/interface/infomation/clickNotify.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface/infomation/idfa_query.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface/dyy_app/loanUserAction_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface/dyy_app/userAction_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface/web_app/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface/web_app/init.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface/app/batchInsertVisitInfo_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="e#15#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface/app/checkUpdate_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <folding>
@@ -1763,12 +1617,54 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/db_fixture/test_data.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/logger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="25" column="15" selection-start-line="25" selection-start-column="15" selection-end-line="25" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface/app/login_by_pass_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface/app/attendance_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="57" lean-forward="true" selection-start-line="16" selection-start-column="57" selection-end-line="16" selection-end-column="57" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Global_base/global_base.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="26" column="18" lean-forward="true" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+        <state relative-caret-position="342">
+          <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
           <folding>
             <element signature="e#17#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Global_base/login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1784,47 +1680,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Global_base/globa_phone.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="23" lean-forward="true" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        <state relative-caret-position="95">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/run_tests.py">
+    <entry file="file://$PROJECT_DIR$/Global_base/phone.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="428">
-          <caret line="34" column="14" lean-forward="true" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="14" />
+        <state relative-caret-position="523">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
           <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/interface/Business_other/getYkdLoanCollection_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="490">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/interface/Business_other/getYkdHomePageInfo_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="798">
-          <caret line="42" column="19" lean-forward="true" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/interface/app/attendance_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="32" column="63" lean-forward="true" selection-start-line="32" selection-start-column="63" selection-end-line="32" selection-end-column="63" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#25#38#0" expanded="true" />
           </folding>
         </state>
       </provider>

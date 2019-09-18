@@ -6,7 +6,7 @@ import time
 
 class Logger(object):
 
-    def __init__(self, logger="Root"):#logger  为显示类名（默认为Root）
+    def __init__(self, logger="Root"):  # logger  为显示类名（默认为Root）
         """
         指定保存日志的文件路径，日志级别，以及调用文件
             将日志存入到指定的文件中
@@ -14,18 +14,18 @@ class Logger(object):
         """
         # 创建一个logger
         self.logger = logging.getLogger(logger)
-        self.logger.setLevel(logging.DEBUG) #文件写入DEBUG级别及以上（可自行调整）
+        self.logger.setLevel(logging.DEBUG)  # 文件写入DEBUG级别及以上（可自行调整）
 
         # 创建一个handler，用于写入日志文件
-        rq = time.strftime('%Y%m%d%H', time.localtime(time.time()))  #每小时一个文件
-        log_path = os.path.dirname(os.getcwd()) + '/testOutput/log/'#保存地址
+        rq = time.strftime('%Y%m%d%H', time.localtime(time.time()))  # 每小时一个文件
+        log_path = os.path.dirname(os.getcwd()) + '/testOutput/log/'  # 保存地址
         log_path1 = './testOutput/log/'
         try:
             log_name = log_path + rq + '.log'
-            fh = logging.FileHandler(log_name,encoding='utf-8',mode="a+")
+            fh = logging.FileHandler(log_name, encoding='utf-8', mode="a+")
         except:
             log_name = log_path1 + rq + '.log'
-            fh = logging.FileHandler(log_name,encoding='utf-8',mode="a+")
+            fh = logging.FileHandler(log_name, encoding='utf-8', mode="a+")
 
         fh.setLevel(logging.INFO)
         fh.close()
