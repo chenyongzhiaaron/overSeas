@@ -2,17 +2,10 @@ import sys,time
 
 sys.path.append('../db_fixture')
 
-try:
-    from mysql_db import DB
-except ImportError:
-    from .mysql_db import DB
-
 # 定义过去时间
 past_time = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(time.time()-100000))
-
 # 定义当前时间
 current_time = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(time.time()))
-
 # 定义将来时间
 future_time = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(time.time()+10000))
 

@@ -84,7 +84,7 @@ Version in 0.8.0
 
 Version in 0.7.1
 * Back port to Python 2.3 (Frank Horowitz).
-* Fix missing scroll bars in detail log (Podi).
+* Fix missing scroll bars in detail Log (Podi).
 """
 
 # TODO: color stderr
@@ -193,7 +193,7 @@ class Template_mixin(object):
     <link rel="stylesheet" href="http://cdn.bootcss.com/bootstrap/3.3.0/css/bootstrap.min.css">
     <script src="http://cdn.bootcss.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
     <script src="http://apps.bdimg.com/libs/Chart.js/0.2.0/Chart.min.js"></script>
-    <!-- <link href="https://cdn.bootcss.com/echarts/3.8.5/echarts.common.min.js" rel="stylesheet">   -->
+    <!-- <link href="https://cdn.bootcss.com/echarts/3.8.5/echarts.Common.min.js" rel="stylesheet">   -->
     
     %(stylesheet)s
 </head>

@@ -3,8 +3,13 @@
 import random
 from random import choice
 
-def create_phone(metho=None):
-    if metho == 0:
+
+def create_phone(methos=None):
+    """
+    :param methos: 0 & string
+    :return: 0 返回固定手机号，其它返回随机手机号
+    """
+    if methos == 0:
         phone = 18100000000
     else:
         # 第二位数字
@@ -24,8 +29,7 @@ def create_phone(metho=None):
     return phone
 
 
-# 生成手机号
-phone = create_phone(1)
-print(phone)
-
-
+if __name__ == "__main__":
+    # 生成手机号
+    phone = create_phone(1)
+    print(phone)

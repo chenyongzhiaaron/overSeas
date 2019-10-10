@@ -1,13 +1,12 @@
 # coding=utf8
 import configparser as cparser
-import os
 
 import pymysql.cursors
+from Conf import ConfPath
 
-# ======== Reading db_config.ini setting ===========
-base_dir = str(os.path.dirname(os.path.dirname(__file__)))
-base_dir = base_dir.replace('\\', '/')
-file_path = base_dir + "/db_config.ini"
+# ======== Reading config.ini setting ===========
+
+file_path = ConfPath.ConfPath
 
 cf = cparser.ConfigParser()
 

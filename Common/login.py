@@ -1,17 +1,17 @@
 import requests
-from Global_base import global_base
+from Common import function
 import time
 import logging
 
 
 class LoginByPassWord:
     def login_by_password(self, username):
-        url = global_base.DefTool.url(self, '/usercenter/sys/loginByPass')
+        url = function.DefTools.url(self, '/usercenter/sys/loginByPass')
         pa = {"ver": "2.6.0", "password": "8ff15b24341602becdf011679ec383c1",
               "verno": 15, "deviceId": "867910035562539", "deviceType": 1, "productId": 1003,
               "channelId": "sinaif", "deviceToken": "ef70fb3178dccde19df9295a68aca0a3", "mjbname": "qsj",
               "username": username}
-        param = global_base.DefTool.payload(self, **pa)
+        param = function.DefTools.payload(self, **pa)
         result = requests.post(url=url, data=param).json()
         time.sleep(1)
         try:

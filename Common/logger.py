@@ -1,7 +1,7 @@
 # _*_ coding: utf-8 _*_
 import logging
-import os.path
 import time
+from Conf import ConfPath
 
 
 class Logger(object):
@@ -18,13 +18,13 @@ class Logger(object):
 
         # 创建一个handler，用于写入日志文件
         rq = time.strftime('%Y%m%d%H', time.localtime(time.time()))  # 每小时一个文件
-        log_path = os.path.dirname(os.getcwd()) + '/testOutput/log/'  # 保存地址
-        log_path1 = './testOutput/log/'
+        log_path = ConfPath.LogPath   # 保存地址
+        log_path1 = ConfPath.LogPath
         try:
-            log_name = log_path + rq + '.log'
+            log_name = log_path + rq + '.Log'
             fh = logging.FileHandler(log_name, encoding='utf-8', mode="a+")
         except:
-            log_name = log_path1 + rq + '.log'
+            log_name = log_path1 + rq + '.Log'
             fh = logging.FileHandler(log_name, encoding='utf-8', mode="a+")
 
         fh.setLevel(logging.INFO)
